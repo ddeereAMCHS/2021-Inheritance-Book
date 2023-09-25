@@ -1,6 +1,6 @@
 # Inheritance Book
 
-## Due: Wed 2/22 at 11:59 PM
+## Due: Tue 9/26 at 11:59 PM
 
 - Create a Book class
 - The class should have the following data members:
