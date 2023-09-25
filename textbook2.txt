@@ -1,4 +1,4 @@
-Data Structurs and Algorithms
+Data Structures and Algorithms
 Bill Bob
 411
 3
