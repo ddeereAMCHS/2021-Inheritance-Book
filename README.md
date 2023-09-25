@@ -18,6 +18,7 @@
   - edition
 - Write a default constructor
 - Write a parameterized constructor that sets all four data members
+- Write getter and setter methods for each data member specific to the Textbook class
 - Override the toString method to return the title and the author with the word "by" in between them followed by the edition number
   - Ex. Calculus by Tom Smith, ed. 1
 - - - - - - - - - - - -
@@ -26,6 +27,7 @@
   - genre
 - Write a default constructor
 - Write a parameterized constructor that sets all four data members
+- Write getter and setter methods for each data member specific to the Textbook class
 - - - - - - - - - - - -
 - Create a program called `BookTester.java`
 - Prompt the user for a filename
