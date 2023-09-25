@@ -27,7 +27,7 @@
   - genre
 - Write a default constructor
 - Write a parameterized constructor that sets all four data members
-- Write getter and setter methods for each data member specific to the Textbook class
+- Write getter and setter methods for each data member specific to the Novel class
 - - - - - - - - - - - -
 - Create a program called `BookTester.java`
 - Prompt the user for a filename
