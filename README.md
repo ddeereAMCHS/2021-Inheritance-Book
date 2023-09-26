@@ -3,7 +3,7 @@
 ## Due: Tue 9/26 at 11:59 PM
 
 - Create a Book class
-- The class should have the following data members:
+- The class should have the following private data members:
   - Title
   - Author
   - Number of pages
@@ -14,7 +14,7 @@
   - Ex. The Cat in the Hat by Dr. Seuss
 - - - - - - - - - - - -
 - Create a Textbook class that is a subclass of the Book class
-- The class should have the following data members in addition to its inherited members:
+- The class should have the following private data members in addition to its inherited members:
   - edition
 - Write a default constructor
 - Write a parameterized constructor that sets all four data members
@@ -23,7 +23,7 @@
   - Ex. Calculus by Tom Smith, ed. 1
 - - - - - - - - - - - -
 - Create a Novel class that is a subclass of the Book class
-- The class should have the following data members in addition to its inherited members:
+- The class should have the following private data members in addition to its inherited members:
   - genre
 - Write a default constructor
 - Write a parameterized constructor that sets all four data members
