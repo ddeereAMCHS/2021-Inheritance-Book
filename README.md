@@ -31,9 +31,9 @@
 - - - - - - - - - - - -
 - Create a program called `BookTester.java`
 - Prompt the user for a filename
-- Read in the data from that file and create a Textbook object with that data
+- Read in the data from that file and create a Textbook object with that data using the parameterized constructor
 - Prompt the user for another filename
-- Read in the data from that file and create a Novel object with that data
+- Read in the data from that file and create a Novel object with that data using the parameterized constructor
 - Print the Textbook object
 - Print the Novel object
 
